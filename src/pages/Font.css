@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Crimes Times Six';
+    font-style: normal;
+    
+    src: local('Crimes Times Six'), url('../pages/Crimes\ Times\ Six.ttf') format('woff');
+  }

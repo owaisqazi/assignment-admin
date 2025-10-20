@@ -1,0 +1,40 @@
+.text-editor {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+  }
+  
+  .toolbar {
+    margin-bottom: 10px;
+  }
+  
+  .toolbar button {
+    margin-right: 5px;
+    margin-bottom: 10px;
+    background: transparent;
+    border: 1px solid #f00;
+    padding: 10px;
+  }
+  
+  .editor {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    height: 50vh;
+  }
+  
+  .customBlockquoteStyle {
+    color: #777;
+    border-left: 3px solid #ddd;
+    padding-left: 10px;
+  }
+  
+  .public-DraftStyleDefault-ul {
+    list-style-type: disc; /* Change bullet style */
+    margin-left: 20px; /* Adjust left margin for indentation */
+  }
+  
+  /* Adjust bullet list item spacing */
+  .public-DraftStyleDefault-ul li {
+    margin-bottom: 5px; /* Set margin bottom to create space between list items */
+  }
